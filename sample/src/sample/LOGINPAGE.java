@@ -1,5 +1,4 @@
 package sample;
-fghhjytjyujujju
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
